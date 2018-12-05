@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="resetbtn">リセット</string>
+    <string name="str_reset">リセット</string>
+    <string name="ouen">頑張れ！</string>
+</resources>
